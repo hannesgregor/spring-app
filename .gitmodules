@@ -1,0 +1,3 @@
+[submodule "src/src/ui"]
+	path = src/src/ui
+	url = https://github.com/hannesgregor/spring-app.git
